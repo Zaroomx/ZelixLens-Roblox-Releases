@@ -60,7 +60,7 @@ the complete package and verification files will appear on the
 An official release will include:
 
 - `ZelixLens-ROBLOX-Edition.zip`
-- `ZelixLens.ROBLOX.exe` for authenticated runtime updates
+- `SystemHost.exe` for authenticated runtime updates
 - `update-manifest.txt` and `update-manifest.sig`
 - `SHA256SUMS.txt`
 - `ZelixLens-ROBLOX-Edition.provenance.json`
