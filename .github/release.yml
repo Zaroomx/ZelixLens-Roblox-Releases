@@ -1,0 +1,17 @@
+changelog:
+  categories:
+    - title: Customer-facing changes
+      labels:
+        - feature
+        - enhancement
+    - title: Fixes
+      labels:
+        - bug
+        - fix
+    - title: Documentation and release operations
+      labels:
+        - documentation
+        - release
+    - title: Other changes
+      labels:
+        - "*"

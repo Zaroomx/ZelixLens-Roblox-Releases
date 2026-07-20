@@ -1,0 +1,12 @@
+# Binary-only public release repository.
+# Binary packages and updater assets belong in GitHub Releases, not Git history.
+*
+!.gitignore
+!.gitattributes
+!README.md
+!LICENSE.md
+!.github/
+!.github/*.yml
+!.github/*.md
+!.github/docs/
+!.github/docs/*.md
