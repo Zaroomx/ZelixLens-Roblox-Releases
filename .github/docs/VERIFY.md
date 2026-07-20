@@ -21,7 +21,20 @@ Get-FileHash -Algorithm SHA256 -LiteralPath .\ZelixLens-ROBLOX-Edition.zip
 Confirm that the printed value exactly matches the value beside
 `ZelixLens-ROBLOX-Edition.zip` in `SHA256SUMS.txt`.
 
-## 3. Check the release record
+## 3. Check the Windows publisher signature
+
+After extracting the complete ZIP, run:
+
+```powershell
+Get-AuthenticodeSignature -LiteralPath .\ZelixLens.ROBLOX.Launcher.exe |
+    Select-Object Status, StatusMessage, SignerCertificate
+```
+
+Do not continue unless `Status` is `Valid` and the publisher matches the
+publisher named on the same GitHub Release. Production packages are blocked
+from staging when either executable lacks a valid, timestamped signature.
+
+## 4. Check the release record
 
 An approved release also publishes:
 

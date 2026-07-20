@@ -42,7 +42,12 @@ The customer launcher is named `ZelixLens.ROBLOX.Launcher.exe`. Before launch it
 - verifies an independently signed RSA-3072 manifest;
 - validates the pinned release URL, runtime size, and SHA-256 digest;
 - blocks rollback and same-version asset replacement; and
-- performs KeyAuth access verification before the runtime starts.
+- starts the runtime with a short-lived, one-use launch grant; the runtime then
+  completes KeyAuth verification before loading its privileged backend.
+
+After a key is accepted, it is saved with Windows DPAPI for the current Windows
+account. The launcher can reuse that protected key on later starts, and the
+**FORGET** button removes it.
 
 The update signing private key is not stored on GitHub or shipped to customers.
 
