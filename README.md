@@ -12,7 +12,7 @@
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#system-requirements)
 
 [![Download ZelixLens](https://img.shields.io/badge/DOWNLOAD-Latest%20Customer%20Package-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-ROBLOX-Edition.zip)
-[![Get a key — Join Discord](https://img.shields.io/badge/GET%20A%20KEY-JOIN%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KaA3YBZ43D)
+[![Join Discord](https://img.shields.io/badge/-JOIN%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KaA3YBZ43D)
 
 **Official downloads are available from GitHub Releases and the ZelixLens Discord.**
 
