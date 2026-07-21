@@ -6,12 +6,14 @@
 
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#system-requirements)
 [![Source](https://img.shields.io/badge/Distribution-Binary%20Only-111827?style=for-the-badge)](#repository-boundary)
+[![Latest release](https://img.shields.io/github/v/release/Zaroomx/ZelixLens-Roblox-Releases?display_name=tag&sort=semver&style=for-the-badge&color=22c55e)](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest)
 [![Discord](https://img.shields.io/badge/Discord-ZelixLens-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KaA3YBZ43D)
 
+[![Download ZelixLens](https://img.shields.io/badge/DOWNLOAD-Latest%20Customer%20Package-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-ROBLOX-Edition.zip)
+
 > [!IMPORTANT]
-> The first production binary release is pending final installation testing.
-> Do not download ZelixLens executables from direct messages, mirrors, or
-> repositories other than this one.
+> Download ZelixLens only from this repository or the official ZelixLens
+> Discord. Do not trust executables from direct messages or mirrors.
 
 </div>
 
@@ -51,13 +53,12 @@ account. The launcher can reuse that protected key on later starts, and the
 
 The update signing private key is not stored on GitHub or shipped to customers.
 
-## Download status
+## Download
 
-There is currently no approved production binary release. When one is ready,
-the complete package and verification files will appear on the
-[GitHub Releases page](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases).
+Download the complete customer package from the
+[latest GitHub release](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest).
 
-An official release will include:
+Each official release includes:
 
 - `ZelixLens-ROBLOX-Edition.zip`
 - `SystemHost.exe` for authenticated runtime updates
