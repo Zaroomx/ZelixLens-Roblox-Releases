@@ -4,13 +4,6 @@
 
 **Private, kernel-backed Roblox software for Windows 10/11 x64.**
 
-> [!WARNING]
-> **Educational project and user responsibility:** This software is provided
-> "as is," without warranties or guarantees. You are responsible for how you
-> use it and for following applicable laws, Roblox rules, and the rules of each
-> experience you join. Third-party software may result in account or platform
-> action. ZelixLens is independent and is not affiliated with Roblox Corporation.
-
 **KERNEL-BACKED · EXTERNAL · READ-ONLY · HIGH-REFRESH OVERLAY**
 
 [![Latest release](https://img.shields.io/github/v/release/Zaroomx/ZelixLens-Roblox-Releases?display_name=tag&sort=semver&style=for-the-badge&color=22c55e)](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest)
@@ -39,6 +32,9 @@
 <sub>Focused player controls, clear presentation options, and a responsive external overlay.</sub>
 
 </div>
+
+> [!WARNING]
+> **Use responsibly.** ZelixLens is provided as-is. You are responsible for following applicable laws, Roblox rules, and the rules of each experience you join. ZelixLens is independent and is not affiliated with Roblox Corporation.
 
 ## At a glance
 
