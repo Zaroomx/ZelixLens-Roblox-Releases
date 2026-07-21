@@ -9,9 +9,9 @@
 [![Discord](https://img.shields.io/badge/Discord-ZelixLens-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KaA3YBZ43D)
 
 > [!IMPORTANT]
-> The first production binary release is pending code-signing and installation
-> review. Do not download ZelixLens executables from direct messages, mirrors,
-> or repositories other than this one.
+> The first production binary release is pending final installation testing.
+> Do not download ZelixLens executables from direct messages, mirrors, or
+> repositories other than this one.
 
 </div>
 
