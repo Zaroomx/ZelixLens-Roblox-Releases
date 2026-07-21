@@ -12,11 +12,14 @@
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#system-requirements)
 
 [![Download ZelixLens](https://img.shields.io/badge/DOWNLOAD-Latest%20Customer%20Package-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-ROBLOX-Edition.zip)
-[![Get a key](https://img.shields.io/badge/GET%20A%20KEY-Official%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KaA3YBZ43D)
+[![Get a key](https://img.shields.io/badge/GET%20A%20KEY-Affordable%20Access-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KaA3YBZ43D)
 
 **Official downloads are available from GitHub Releases and the ZelixLens Discord.**
 
 </div>
+
+> [!TIP]
+> **Try ZelixLens ROBLOX Edition free for 2 hours.** Join the [official Discord](https://discord.gg/KaA3YBZ43D) to receive a trial key before purchasing.
 
 ---
 
@@ -43,7 +46,7 @@
 | **Operating model** | Separate external application with no Roblox-process injection or memory writes |
 | **Player visuals** | Boxes, skeletons, names, distance, health, visibility presentation, and filtering |
 | **Controls** | Player presentation, aiming configuration, and performance settings in one interface |
-| **Access** | ZelixLens license verification with protected saved-key convenience |
+| **Access** | Two-hour free trial and current access options through the official Discord |
 | **Delivery** | Complete customer package with automatic update support |
 | **Official sources** | GitHub Releases and the official ZelixLens Discord |
 
@@ -94,7 +97,7 @@ overlay and Roblox-specific controls.
 
 | Download the software | Get access |
 |---|---|
-| Download `ZelixLens-ROBLOX-Edition.zip` from the [latest GitHub release](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest). | Join the [official ZelixLens Discord](https://discord.gg/KaA3YBZ43D) for current access options and private support. |
+| Download `ZelixLens-ROBLOX-Edition.zip` from the [latest GitHub release](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest). | Join the [official ZelixLens Discord](https://discord.gg/KaA3YBZ43D) to request a free two-hour trial or view current access options. |
 
 <div align="center">
 
