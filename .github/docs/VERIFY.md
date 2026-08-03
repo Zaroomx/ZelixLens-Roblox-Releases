@@ -5,8 +5,7 @@ listed in this repository.
 
 ## 1. Download from the official release
 
-Download `ZelixLens-ROBLOX-Edition.zip` and `SHA256SUMS.txt` from the same entry
-on the [official Releases page](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases).
+Download `ZelixLens-Launcher.zip` from the permanent [latest-download link](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-Launcher.zip), then download `SHA256SUMS.txt` from the same entry on the [official Releases page](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest).
 
 Do not use copies sent through direct messages or hosted on unofficial mirrors.
 
@@ -15,31 +14,18 @@ Do not use copies sent through direct messages or hosted on unofficial mirrors.
 Open PowerShell in the download folder and run:
 
 ```powershell
-Get-FileHash -Algorithm SHA256 -LiteralPath .\ZelixLens-ROBLOX-Edition.zip
+Get-FileHash -Algorithm SHA256 -LiteralPath .\ZelixLens-Launcher.zip
 ```
 
 Confirm that the printed value exactly matches the value beside
-`ZelixLens-ROBLOX-Edition.zip` in `SHA256SUMS.txt`.
+`ZelixLens-Launcher.zip` in `SHA256SUMS.txt`.
 
-## 3. Check the Windows publisher signature
-
-After extracting the complete ZIP, run:
-
-```powershell
-Get-AuthenticodeSignature -LiteralPath .\ZelixLens.ROBLOX.Launcher.exe |
-    Select-Object Status, StatusMessage, SignerCertificate
-```
-
-Do not continue unless `Status` is `Valid` and the publisher matches the
-publisher named on the same GitHub Release. Production packages are blocked
-from staging when either executable lacks a valid, timestamped signature.
-
-## 4. Check the release record
+## 3. Check the release record
 
 An approved release also publishes:
 
 - `update-manifest.txt` — updater asset metadata
-- `update-manifest.sig` — RSA-3072 signature for that metadata
+- `update-manifest.sig` — authenticated signature for that metadata
 - `ZelixLens-ROBLOX-Edition.provenance.json` — release provenance
 - `ZelixLens-ROBLOX-Edition-NOTICES.txt` — product and third-party notices
 
