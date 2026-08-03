@@ -12,14 +12,14 @@
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#system-requirements)
 
 [![Download ZelixLens](https://img.shields.io/badge/DOWNLOAD-Latest%20Launcher-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-Launcher.zip)
-[![Join Discord](https://img.shields.io/badge/-JOIN%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KaA3YBZ43D)
+[![Join Discord](https://img.shields.io/badge/-JOIN%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nr78wGAfGd)
 
 **Official downloads are available from GitHub Releases and the ZelixLens Discord.**
 
 </div>
 
 > [!TIP]
-> **Try ZelixLens ROBLOX Edition free for 2 hours.** Join the [official Discord](https://discord.gg/KaA3YBZ43D) to receive a trial key before purchasing.
+> **Try ZelixLens ROBLOX Edition free for 2 hours.** Join the [official Discord](https://discord.gg/nr78wGAfGd) to receive a trial key before purchasing.
 
 ---
 
@@ -97,19 +97,19 @@ overlay and Roblox-specific controls.
 
 | Download the software | Get access |
 |---|---|
-| Download `ZelixLens-Launcher.zip` using the permanent [latest-download link](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-Launcher.zip). The launcher downloads the newest verified Roblox build. | Join the [official ZelixLens Discord](https://discord.gg/KaA3YBZ43D) to request a free two-hour trial or view current access options. |
+| Download `ZelixLens-Launcher.zip` using the permanent [latest-download link](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-Launcher.zip). The launcher downloads the newest verified Roblox build. | Join the [official ZelixLens Discord](https://discord.gg/nr78wGAfGd) to request a free two-hour trial or view current access options. |
 
 <div align="center">
 
 [![Download package](https://img.shields.io/badge/DOWNLOAD-ZelixLens--Launcher.zip-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-Launcher.zip)
-[![Get a key](https://img.shields.io/badge/GET%20A%20KEY-Official%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KaA3YBZ43D)
+[![Get a key](https://img.shields.io/badge/GET%20A%20KEY-Official%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nr78wGAfGd)
 
 </div>
 
 Only use these official customer sources:
 
 - **GitHub:** [Zaroomx/ZelixLens-Roblox-Releases](https://github.com/Zaroomx/ZelixLens-Roblox-Releases)
-- **Discord:** [ZelixLens official server](https://discord.gg/KaA3YBZ43D)
+- **Discord:** [ZelixLens official server](https://discord.gg/nr78wGAfGd)
 
 Do not purchase keys from unsolicited direct messages or download reuploaded
 packages from unofficial mirrors.
@@ -141,7 +141,7 @@ before using an older package.
 
 For installation, access, launcher, or update help, read the
 [support guide](.github/SUPPORT.md) or ask in the
-[official Discord](https://discord.gg/KaA3YBZ43D). Include the exact error
+[official Discord](https://discord.gg/nr78wGAfGd). Include the exact error
 message, but remove access keys and personal information first.
 
 Report suspected package tampering or security problems privately through the
@@ -171,7 +171,7 @@ ownership or source-code rights. See [LICENSE.md](LICENSE.md).
 
 <div align="center">
 
-**[Download latest](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-Launcher.zip)** · **[Get a key](https://discord.gg/KaA3YBZ43D)** · **[Support](.github/SUPPORT.md)**
+**[Download latest](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-Launcher.zip)** · **[Get a key](https://discord.gg/nr78wGAfGd)** · **[Support](.github/SUPPORT.md)**
 
 <sub>ZelixLens ROBLOX Edition · Official customer releases by Zaroomx</sub>
 

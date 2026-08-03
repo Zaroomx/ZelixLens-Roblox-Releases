@@ -4,7 +4,7 @@ Use only official ZelixLens channels:
 
 - [GitHub Releases](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases) for approved downloads
 - [GitHub Discussions](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/discussions) for public announcements and non-sensitive questions
-- [Official Discord](https://discord.gg/KaA3YBZ43D) for access, account, and private installation support
+- [Official Discord](https://discord.gg/nr78wGAfGd) for access, account, and private installation support
 
 ## Before requesting help
 

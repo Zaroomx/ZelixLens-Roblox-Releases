@@ -25,7 +25,7 @@ observed behavior. Do not include live keys, passwords, tokens, recovery codes,
 or unnecessary personal information.
 
 If GitHub private vulnerability reporting is unavailable, open a private ticket
-in the [official ZelixLens Discord](https://discord.gg/KaA3YBZ43D) and request
+in the [official ZelixLens Discord](https://discord.gg/nr78wGAfGd) and request
 the security-reporting contact.
 
 ## Security-software reports
