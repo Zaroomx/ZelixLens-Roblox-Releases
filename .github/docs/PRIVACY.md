@@ -17,14 +17,14 @@ KeyAuth processes this information under its own terms and policies.
 
 ## Local storage
 
-- A saved access key is protected with Windows current-user encryption (DPAPI).
-- A one-use launch grant passes only a short-lived random nonce to the runtime.
-- Signed update proof and rollback state are protected in the current-user profile.
+- Saved access information is stored for the current Windows user.
+- Temporary launch information is not kept as a reusable customer credential.
+- The launcher stores the local state needed to manage product updates.
 - Application preferences remain local unless the customer chooses to share them.
 
 ## Updates and downloads
 
-The launcher contacts GitHub to retrieve signed release metadata and approved
+The launcher contacts GitHub to retrieve current release information and approved
 runtime assets. GitHub may process normal connection and download metadata.
 
 ## Support

@@ -2,13 +2,11 @@
 
 # ZelixLens ROBLOX Edition
 
-**Private, kernel-backed Roblox software for Windows 10/11 x64.**
+**Customer-ready Roblox software for Windows 10/11 x64.**
 
-**KERNEL-BACKED · EXTERNAL · READ-ONLY · HIGH-REFRESH OVERLAY**
+**PLAYER VISUALS · AIM CONTROLS · CUSTOMIZATION · HIGH-REFRESH OVERLAY**
 
 [![Latest release](https://img.shields.io/github/v/release/Zaroomx/ZelixLens-Roblox-Releases?display_name=tag&sort=semver&style=for-the-badge&color=22c55e)](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest)
-[![Kernel backend](https://img.shields.io/badge/Backend-Kernel--Backed-DC2626?style=for-the-badge)](#external-kernel-backed-and-read-only)
-[![Read-only](https://img.shields.io/badge/Memory-Read--Only-0891B2?style=for-the-badge)](#external-kernel-backed-and-read-only)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#system-requirements)
 
 [![Download ZelixLens](https://img.shields.io/badge/DOWNLOAD-Latest%20Launcher-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaroomx/ZelixLens-CS2-Releases/releases/latest/download/ZelixLens-Launcher.zip)
@@ -42,8 +40,8 @@
 
 | | ZelixLens ROBLOX Edition |
 |---|---|
-| **Backend** | Kernel-backed, read-only game-data transport |
-| **Operating model** | Separate external application with no Roblox-process injection or memory writes |
+| **Interface** | Separate customer application with focused player and display controls |
+| **Updates** | Automatic updates through the universal launcher |
 | **Player visuals** | Boxes, skeletons, names, distance, health, visibility presentation, and filtering |
 | **Controls** | Player presentation, aiming configuration, and performance settings in one interface |
 | **Access** | Two-hour free trial and current access options through the official Discord |
@@ -52,11 +50,9 @@
 
 ## Why ZelixLens
 
-- **External design** — the overlay and controls run in the separate ZelixLens application.
-- **Read-only interaction** — Roblox game data is read without writing to Roblox process memory.
 - **Focused presentation** — configure the information you want without crowding the screen.
 - **Responsive controls** — player, aim, and performance settings share one consistent interface.
-- **Saved access** — an accepted key can be protected for the current Windows account and reused later.
+- **Saved access** — an accepted key can be reused later from the universal launcher.
 - **Maintained releases** — the customer launcher checks for approved software updates automatically.
 
 ## Feature set
@@ -76,22 +72,9 @@
 
 ### Launcher and access
 
-- License-key verification with protected saved-key support
+- License-key verification with saved-key support
 - Automatic update checks through the official release repository
 - Complete customer package with the launcher and required runtime components
-
-## External, kernel-backed, and read-only
-
-ZelixLens uses a kernel-backed read transport while the customer application
-remains external to Roblox.
-
-- It does not inject a DLL or other code into the Roblox process.
-- It does not write to Roblox process memory.
-- Game-data access is read-only.
-- The overlay, menu, settings, and rendering run in the separate ZelixLens application.
-
-This keeps the interaction model narrow while supporting a responsive player
-overlay and Roblox-specific controls.
 
 ## Get the package and a key
 
@@ -120,7 +103,7 @@ packages from unofficial mirrors.
 2. Extract the complete ZIP into its own folder.
 3. Run `ZelixLens.Launcher.exe`.
 4. Select **Roblox**. Choose **Download** if prompted, then enter your access key and select **Verify & Launch**.
-5. If Windows requests a restart while preparing the backend, restart the PC once and run the launcher again.
+5. If Windows requests a restart while preparing required components, restart the PC once and run the launcher again.
 
 Keep the extracted package together. Do not rename, replace, or separate its
 files, and never use customer packages from unofficial mirrors.
@@ -131,7 +114,7 @@ files, and never use customer packages from unofficial mirrors.
 - Roblox Player
 - An active ZelixLens ROBLOX Edition access key
 - Network access for license verification and updates
-- Administrator access for preparing and starting the backend
+- Administrator access when prompted while preparing required components
 
 Roblox changes frequently. Check the date and compatibility notes on the
 [latest release](https://github.com/Zaroomx/ZelixLens-Roblox-Releases/releases/latest)

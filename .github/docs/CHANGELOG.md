@@ -7,13 +7,12 @@ and publication times will remain available on the
 ## 1.0 - 2026-07-21
 
 - Published the first customer-ready ZelixLens ROBLOX Edition package.
-- Added the Roblox-specific launcher and KeyAuth access flow with protected
-  saved-key storage.
-- Added independently signed GitHub update metadata with rollback protection.
-- Embedded the verified runtime driver and added automatic staging and cleanup.
+- Added the Roblox-specific launcher and KeyAuth access flow with saved-key support.
+- Added automatic updates, staging, and cleanup.
+- Added player visuals, aiming options, and performance controls.
 - Added public verification, privacy, support, security, and license documents.
 
 ## Release policy
 
-- Published assets are not replaced in place; changed bytes require a new version.
-- Published releases are retained to provide an auditable update history.
+- Changed customer packages receive a new updater revision.
+- Only the current supported customer release is kept public.
